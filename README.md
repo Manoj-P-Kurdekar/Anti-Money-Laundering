@@ -54,6 +54,9 @@ It's worth noting that model selection and optimization is an iterative process,
 
 ## Tool Used
 ![image](https://github.com/Manoj-P-Kurdekar/Anti-Money-Laundering/assets/102578528/f8f27076-3893-4ddf-aa0c-96795b07152a)
+- Jupyter and Spyder is used as an IDE.
+- For visualization of the plots, Matplotlib and Seaborn are used.
+- Streamlit Platform is used for deployment of the model.
 
 ## Result
 
