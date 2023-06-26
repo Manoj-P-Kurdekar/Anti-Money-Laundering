@@ -52,6 +52,9 @@ Finally, I saved the selected model using the pickle library to be able to reuse
 
 It's worth noting that model selection and optimization is an iterative process, and different techniques like hyperparameter tuning or cross-validation can be employed to further enhance the performance of the chosen model. Additionally, the selection of the best model depends on the specific requirements and constraints of the project.
 
+## Tool Used
+![image](https://github.com/Manoj-P-Kurdekar/Anti-Money-Laundering/assets/102578528/f8f27076-3893-4ddf-aa0c-96795b07152a)
+
 ## Result
 
 The best performing Random Forest Classifier produced an accuracy score of 95.2% on the testing set, compared to a baseline score of 50%. In this case false negatives are an unwanted risk, so a high recall score is important, the best Random Forest produced a recall of 97% on the testing set.
