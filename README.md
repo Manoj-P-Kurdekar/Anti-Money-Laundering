@@ -1,6 +1,7 @@
-# Anti-Money-Laundering
+# 💰Anti-Money-Laundering💰
 
-## Introduction
+![IntroductionGIF](https://github.com/Manoj-P-Kurdekar/Anti-Money-Laundering/assets/102578528/048c4f1a-e052-447e-acd6-2cee7cbf0a04)
+Introduction
 
 The purpose of this Anti-money laundering (AML) is to process of preventing and detecting the use of illicit funds for illegal activities. AML is a crucial 
 challenge for financial institutions, as they face the risk of regulatory fines, reputational damage, and criminal prosecution if they fail to comply with 
